@@ -37,4 +37,4 @@
 <a href="https://www.linkedin.com/in/ivan-souza-450513337/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div>
 
-![Snake animation](https://github.com/souzaa_dev/souzaa_dev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/souzaa-dev)
