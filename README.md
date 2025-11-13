@@ -35,4 +35,4 @@
 <a href="mailto:ivang10dw@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ivan-souza-450513337/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/souzaa-dev/souzaa-dev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/souzaa-dev/blob/output/github-contribution-grid-snake.svg)
