@@ -8,8 +8,6 @@
 - 📁 Focado em Desenvolvimento de Softwares
 - 💼 Atualmente estou sendo Trainee Dev Front-End de uma empresa
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaa-dev)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Minhas Habilidades                                                        
 
 <div style="display: inline_block"><br>
