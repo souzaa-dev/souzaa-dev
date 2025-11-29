@@ -8,12 +8,7 @@
 - 📁 Focado em Desenvolvimento de Softwares
 - 💼 Atualmente estou sendo Trainee Dev Front-End de uma empresa
 
-<div>
-  <a href="https://github.com/ivang10dw">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivang10dw&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivang10dw&layout=compact&langs_count=16&theme=dark"/>
-  </a>
-</div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaa-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Minhas Habilidades                                                        
 
