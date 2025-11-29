@@ -10,8 +10,8 @@
 
   <div>
     <a href="https://github.com/ivang10dw">
-      <img height="180em"src="https://github-readme-stats.vercel.app/api?username=ivansouza&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-      <img img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivansouza&layout=compact&langs_count=16&theme=dark"/>
+      <img height="180em"src="https://github-readme-stats.vercel.app/api?username=souzaa-dev&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+      <img img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaa-dev&layout=compact&langs_count=16&theme=dark"/>
   </div>
 
 ## Minhas Habilidades                                                        
