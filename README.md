@@ -6,7 +6,6 @@
 - 🧑🏻‍🎓 Estou cursando o 2º semestre de Ciência da Computação, na Universidade Federal da Bahia
 - 🧠 Estou sempre buscando aprimorar meus conhecimentos
 - 📁 Focado em Desenvolvimento de Softwares
-- 💼 Atualmente estou sendo Trainee Dev Front-End de uma empresa
 
 ## Minhas Habilidades                                                        
 
