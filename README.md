@@ -3,7 +3,7 @@
 ## Sobre o dono desse Perfil
 - 👋 Salve! Seja Bem-Vindo(a) ao meu perfil
 - 🧑🏻‍💻 Meu nome é Ivan, tenho 20 anos, e sou apaixonado por Tecnologia
-- 🧑🏻‍🎓 Estou cursando o 2º semestre de Ciência da Computação, na Universidade Federal da Bahia
+- 🧑🏻‍🎓 Estou cursando o 3º semestre de Ciência da Computação, na Universidade Federal da Bahia
 - 🧠 Estou sempre buscando aprimorar meus conhecimentos
 - 📁 Focado em Desenvolvimento de Softwares
 
